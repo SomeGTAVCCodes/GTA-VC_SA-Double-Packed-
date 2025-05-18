@@ -1,4 +1,5 @@
-Title: GTA VICE_CITY & SAN_ANDREAS Cheats
+Title:
+* GTA VICE_CITY & SAN_ANDREAS Cheats
 
 Contents;-
 * .pnach  - pcsx2
